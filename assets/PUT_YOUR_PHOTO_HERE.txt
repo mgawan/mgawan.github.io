@@ -1,0 +1,6 @@
+Save your profile photo in this folder and name it exactly: profile.jpg
+
+Tip: a square image (e.g. 600x600 pixels) looks best, since it's displayed as a circle.
+
+If you don't add a photo, the site automatically shows an "MGA" monogram instead.
+You can delete this text file once you've added your photo.
